@@ -73,21 +73,6 @@
 
 <p align="justify">Neste material, você terá contato com conteúdos que abordam do nível iniciante ao avançado sobre Kubernetes. E agora que ele se tornou aberto, com a ajuda de todos vamos construir o maior e mais completo material sobre k8s do mundo.</p>
 
-Contamos com a sua ajuda para tornar este material ainda mais completo. Colabore! Para contribuir com melhorias no conteúdo, siga as instruções deste [tutorial](CONTRIBUTING.md).
-
-Veja os vídeos sobre Kubernetes, DevOps, Automação e outros assuntos relacionado à tecnologia nos canais da LINUXtips:
-
-* [Canal da LINUXtips no Youtube](https://www.youtube.com/LINUXtips)
-* [Canal da LINUXtips na Twitch](https://www.twitch.com/LINUXtips)
-
-Veja os treinamentos disponíveis da LINUXtips:
-
-* [Site Oficial da LINUXtips](https://linuxtips.io)
-
-
-Principais links da LINUXtips:
-
-* [Todos os Links da LINUXtips](https://linktr.ee/LINUXtips)
 
 ### ACESSO AO LIVRO:
 
